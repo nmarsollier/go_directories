@@ -1,3 +1,5 @@
+[English version](https://github.com/nmarsollier/go_directories/blob/main/README_en.md)
+
 # Estructuras de Directorios
 
 En ninguno de los proyectos anteriores he realizado una estructura de directorios razonable, sino mas bien adaptada al ejemplo que quería mostrar.
@@ -121,4 +123,4 @@ Ejemplo: Lectura de feature flags remotas, que se necesiten chequear desde disti
 
 Esta es una serie de notas sobre patrones simples de programación en GO.
 
-[Tabla de Contenidos](https://github.com/nmarsollier/go_index)
+[Tabla de Contenidos](https://github.com/nmarsollier/go_index/blob/main/README.md)
